@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import profilePic from "../images/me.jpg";
 import Navbar from "../components/Navbar.js";
 
@@ -21,6 +21,8 @@ function About() {
                 <p>I look forward to meeting with you and learning how I might be a part of your organization.</p>
                 </p>
                 </p>
+                <br></br><br></br>
+                <Link className="resume" to={{ pathname: "https://docs.google.com/document/d/1DoIF89ho1ie2ILy03x0PFxzTV70s-rC6qIJIghmILck/edit?usp=sharing"}} target="_blank">View Resume</Link>
                 {/* <hr />
                 <p>codybalmand@gmail.com</p>
                 <p>(936)676-3738</p>
