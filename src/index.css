@@ -1,13 +1,58 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+    background: url('/src/images/woods.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    display: flex;
+    flex-direction: column;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.container {
+    background: url('/src/images/blackwood.jpg');
+    border-radius: 20px;
+    text-align: center;
+    border: solid black;
+    border-radius: 50px;
+    margin-top:30px;
+    padding:50px;
+}
+
+.img-fluid {
+  max-width: 300px;
+  max-height: 300px;
+  border: solid black;
+  border-radius: 50px;
+  margin-bottom:20px;
+}
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.profilelinks {
+  color:white;
+  font-size: 30px;
+  font-family: serif;
+  text-decoration: underline;
+}
+
+p {
+  color:white;
+  font-size: 20px;
+  font-family: serif; 
+}
+
+.pcontact {
+  color:white;
+  font-size: 30px;
+  font-family: serif; 
+}
+
+h1, h3 {
+  color:white;
+  font-size:40px;
+  font-family: serif
 }
