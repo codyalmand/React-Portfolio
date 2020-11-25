@@ -11,7 +11,7 @@
 <br>
 
 ## Visit Deployed Site Here:
- https://codyalmand.github.io
+ https://react-portfolio-by-cba.herokuapp.com/
 
 <br>
 
