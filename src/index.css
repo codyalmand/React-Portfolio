@@ -64,3 +64,8 @@ h1, h3 {
   text-decoration: underline;
   
 }
+
+a {
+  font-size: 20px;
+  color: white;
+}

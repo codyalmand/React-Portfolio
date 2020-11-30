@@ -15,6 +15,8 @@ function Portfolio() {
             <Navbar />
                 <article className="col-10">
                     <h1>Portfolio</h1>
+                    <br></br>
+                    <a href="https://github.com/codyalmand?tab=repositories">(CLick Here To View All Github Repositories)</a>
                 </article>
             </section>
             <hr class="my-4"></hr>
