@@ -13,10 +13,23 @@
 ## Visit Deployed Site Here:
  https://react-portfolio-by-cba.herokuapp.com/
 
-<br>
 
-## Resume
-https://docs.google.com/document/d/1DoIF89ho1ie2ILy03x0PFxzTV70s-rC6qIJIghmILck/edit?usp=sharing
+## Description
+This is a basic example of a portfolio built using React, using my infomation from my personal portfolio.
+
+
+## Installation
+
+* install node.js,
+* (copy) this repo to clipboard,
+* open console command (terminal / bash)
+* "cd" into the desired folder,
+* "git clone (paste from clipboard)",
+* "cd" to the folder of that created repo copy,
+* npm install,
+* npm start
+
+<br>
 
 ## GitHub Profile
 https://github.com/codyalmand
